@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc?wsdl" uri="src/conf/xml-resources/web-service-references/CatalogueService/wsdl/openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc.wsdl"/>
+    <system systemId="http://openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc?wsdl=wsdl0" uri="src/conf/xml-resources/web-service-references/CatalogueService/wsdl/openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc.wsdl_wsdl0.wsdl"/>
+    <system systemId="http://openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc?xsd=xsd0" uri="src/conf/xml-resources/web-service-references/CatalogueService/wsdl/openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc.xsd_xsd0.xsd"/>
+</catalog>
