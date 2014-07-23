@@ -5,10 +5,11 @@
         <group>
             <file>file:/C:/Javafiles/LibService/web/test.jsp</file>
             <file>file:/C:/Javafiles/LibService/src/java/clientservlet/LibServlet.java</file>
+            <file>file:/C:/Javafiles/LibService/system.properties</file>
             <file>file:/C:/Javafiles/LibService/web/index11.jsp</file>
             <file>file:/C:/Javafiles/LibService/web/index.jsp</file>
-            <file>file:/C:/Javafiles/LibService/web/result.jsp</file>
             <file>file:/C:/Javafiles/LibService/web/WEB-INF/jax-ws-catalog.xml</file>
+            <file>file:/C:/Javafiles/LibService/web/result.jsp</file>
             <file>file:/C:/Javafiles/LibService/web/about.jsp</file>
         </group>
     </open-files>
